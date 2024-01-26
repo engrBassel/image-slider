@@ -1,2 +1,3 @@
-# image-slider
-This repo contains an image slider using HTML, CSS, JavaScript
+# Image Slider
+- This repo contains an image slider.
+- Using HTML, CSS, JavaScript
